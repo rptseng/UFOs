@@ -1,1 +1,1 @@
-# UFOs Challenge
+# UFOs
