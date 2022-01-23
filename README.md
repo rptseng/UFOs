@@ -5,11 +5,11 @@ The objective is to build a JavaScript code that can receive input from an HTML 
 ## Results
 When the web app is launched, a fully unfiltered view of the data table is visible at the bottom of the page. There are five input boxes that allow filtering by date, city, state, country, and shape of the UFO. In a previous iteration of this web app, there was only one filter option for the UFO Sightings table by Date. 
 
-Image 1 here
+![results_1.png](https://github.com/rptseng/UFOs/blob/main/images/results_1.png)
 
 Using the input boxes, the user can specify the values for the IDs they'd like to filter on. Below is an example of the table being filtered on two ID's simultaneously, the State "fl" and the shape "unknown".
 
-Image 2 here
+![results_3.png](https://github.com/rptseng/UFOs/blob/main/images/results_3.png)
 
 ## Summary
 One drawback of this webpage is there is currently no instruction to indicate that pressing "Enter" is required to submit changes to the filters.
