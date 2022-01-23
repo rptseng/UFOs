@@ -12,8 +12,8 @@ Using the input boxes, the user can specify the values for the IDs they'd like t
 ![results_3.png](https://github.com/rptseng/UFOs/blob/main/images/results_3.png)
 
 ## Summary
-One drawback of this webpage is there is currently no instruction to indicate that pressing "Enter" is required to submit changes to the filters.
+Some drawbacks to this webpage is there is currently no instruction to indicate that pressing "Enter" is required to submit changes to the filters, and the range of the available data set is not clear.
 
 Two additional recommendations to develop this page further could include:
 - Printing the list of current filter settings somewhere on the page when "Enter" is pressed so it is clear what data is being presented in the table.
-- Changing the input boxes into drop-down lists that include the range of values in each of the IDs. To somebody unfamiliar with the data set, they might not be able to effectively filter for all of the data they want to see.
+- Changing the filter input boxes into drop-down lists that include the range of values in each of the IDs. To somebody unfamiliar with the data set, they might not be able to effectively filter for all of the data they want to see.
